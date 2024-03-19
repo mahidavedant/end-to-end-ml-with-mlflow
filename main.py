@@ -1,3 +1,4 @@
-from mlProject.logging.customLogger import logger
+"""
+main.py
+"""
 
-logger.info("Starting custom logging.")

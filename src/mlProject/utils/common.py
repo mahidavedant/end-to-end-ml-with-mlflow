@@ -45,12 +45,12 @@ def get_size(path: Path) -> str:
 
 
 @ensure_annotations
-def read_yaml(path_to_yaml: str) -> ConfigBox:
+def read_yaml(path_to_yaml: Path) -> ConfigBox:
     """
     Read YAML file and return it.
 
     Args:
-      path_to_yaml (str): path like input
+      path_to_yaml (Path): path like input
 
     Raises:
       ValueError: if yaml file is empty
