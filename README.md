@@ -1,4 +1,9 @@
 # end-to-end-ml-with-mlflow
+> The dataset is related to red wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests. 
+> * Original Source: https://archive.ics.uci.edu/dataset/186/wine+quality
+>
+
+- I've built a top-tier wine quality prediction app using `ElasticNet`, meticulously tracked with **MLflow** and **Dagshub**. 
 
 ## Workflows
 1. Update `config.yaml`
