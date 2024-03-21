@@ -1,5 +1,5 @@
 # end-to-end-ml-with-mlflow
-## *Predicting Red Wine Quality Using ML*
+## *Predicting Red Wine Quality Using ML 🍷*
 > The dataset is related to red wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests. 
 > * Original Source: https://archive.ics.uci.edu/dataset/186/wine+quality
 >
